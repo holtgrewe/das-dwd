@@ -49,7 +49,7 @@ setup(
         "future==0.18.2",
         "idna==2.8",
         "itsdangerous==1.1.0",
-        "jinja2==2.11.1",
+        "jinja2==2.11.3",
         "markupsafe==1.1.1",
         "plotly==4.6.0",
         "python-dateutil==2.8.1",
