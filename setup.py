@@ -59,7 +59,7 @@ setup(
         "six==1.14.0",
         "soupsieve==2.0",
         "tqdm==4.32.2",
-        "urllib3==1.25.8",
+        "urllib3==1.26.5",
         "werkzeug==1.0.1",
     ],
     license="MIT license",
